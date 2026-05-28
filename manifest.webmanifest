@@ -1,0 +1,15 @@
+{
+  "name": "Your Daily Ritual",
+  "short_name": "Ritual",
+  "description": "Personal wellness tracker — sleep, weight, mood, habits, school, goals.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#f3ece0",
+  "theme_color": "#4f6f52",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "icon-180.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
